@@ -5,8 +5,9 @@ Esta es una aplicación que permite contar las calorías de una dieta diaria
 ## Instalación:
 
 Clonar el repositorio
+
 zsh
-gir clone https://github.com/JoseRiosp/calorie-counter.git 
+git clone https://github.com/JoseRiosp/calorie-counter.git 
 
 ## Uso
 
